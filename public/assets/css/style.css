@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(253, 63, 63);
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+h6 {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: rgb(255, 202, 103);
+  margin: 0;
+}
+
+.list-group-item {
+  background-color: rgb(255, 223, 165);
+}
+
+.is-devoured button {
+  visibility: hidden;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+
+#borderline-top {
+  margin-top: 0;
+}
+
+#borderline-bottom {
+  margin-bottom: 0;
+}
+
+#make-a-burger {
+  background-color: rgb(255, 202, 103);
+  padding-top: 1rem;
+}
